@@ -12,6 +12,7 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
+<br>
 <?php
 echo "ini belajar pertamaku";
 ?>
