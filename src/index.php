@@ -14,6 +14,6 @@ echo "Connected successfully";
 ?>
 <br>
 <?php
-echo "ini belajar pertamaku"
-echo "ini asik sekali"
+echo "ini belajar pertamaku";
+echo "ini asik sekali";
 ?>
