@@ -16,4 +16,5 @@ echo "Connected successfully";
 <?php
 echo "ini belajar pertamaku";
 echo "ini asik sekali";
+echo "ini otomatis loh"
 ?>
