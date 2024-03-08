@@ -12,8 +12,8 @@ if ($conn->connect_error) {
 }
 echo "Connected successfully";
 ?>
-<?php
 <br>
+<?php
 echo "ini belajar pertamaku"
 echo "ini asik sekali"
 ?>
